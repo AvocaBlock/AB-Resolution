@@ -5,6 +5,9 @@ AB-Resolution
 - [ ] [ 5/12 ] Learn How to use Git @ WPU { Playlist 8 - 10 } 
 - [ ] [ 6/12 ] Learn How to use Git @ WPU { Playlist 11-14 }
 
-| No | Task | Date | Status | 
-|----|------|------|--------|
-| 1  | Learn How to use Github @ WPU | 3/12 | Ongoing | 
+| No | Task | Date | Done | Status | 
+|----|------|------|------|--------|
+| 1 | Learn How to use Github @ WPU { PL 2-4 } | 3/12 | [ ] | Ongoing | 
+| 2 | Learn How to use Git @ WPU { PL 5-7 } | 4/12 | [ ] | Not Started |
+| 3 | Learn How to use Git @ WPU { PL 8-10 } | 5/12 | [ ] | Not Started |
+| 4 | Learn How to use Git @WPU { PL 11-14 } | 6/12 | [ ] | Not Started |
